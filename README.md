@@ -7,4 +7,4 @@ https://admission-predictionlinear-reg.herokuapp.com/
 #AWS
 http://admissionpredictionml-env.eba-936wpx3w.us-east-2.elasticbeanstalk.com/predict
 
-![THIS IS IMAGE](https://ibb.co/1MPyzgc)
+!(https://ibb.co/1MPyzgc)
